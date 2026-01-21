@@ -1,0 +1,6 @@
+This program uses a public API to fetch real-time
+Bitcoin price data.
+
+The API returns data in JSON format, which is parsed
+using Python. Basic error handling is included to
+manage network or API issues.
