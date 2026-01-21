@@ -1,0 +1,7 @@
+Testing helps ensure that core logic works correctly.
+
+This project includes basic tests to verify:
+- Presence of required transaction fields
+- Correct data structure
+
+These checks improve reliability before deployment.
