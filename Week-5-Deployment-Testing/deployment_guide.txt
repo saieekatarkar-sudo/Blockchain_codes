@@ -1,0 +1,18 @@
+Deployment Guide (Beginner Level)
+
+Steps to Run:
+1. Install Python on the system.
+2. Download or clone the GitHub repository.
+3. Navigate to the project folder.
+4. Run the Python files using a Python interpreter.
+
+Example:
+python optimized_transactions.py
+
+Cloud Deployment (Conceptual):
+This project can be deployed on cloud platforms
+such as AWS, Azure, or Heroku by uploading the
+code and configuring a Python runtime environment.
+
+Note:
+Actual cloud deployment is not required for this task.
